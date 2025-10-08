@@ -1,0 +1,548 @@
+﻿ CustId ,HashCode,Payment Method,TransactionDate
+1,BOl2gvcX,credit card,4/17/2012 2:05
+2,lJC8cDTW,cheque,11/25/2011 6:58
+3,tKIbadnh,credit card,2/15/2012 17:29
+4,RcW2Pb3w,credit card,10/9/2010 11:22
+5,z9twA4AJ,credit card,6/13/2012 10:13
+6,akWNQl4e,cheque,7/16/2010 9:39
+7,glrPDLzY,credit card,3/15/2012 22:17
+8,Pn6FkbuL,credit card,6/16/2011 21:46
+9,3rGPBX98,credit card,3/30/2011 14:17
+10,9Eng7yI0,credit card,4/17/2013 18:06
+11,uP7dRmDK,credit card,3/11/2013 17:37
+12,XlxhfOIo,cash,8/31/2010 17:39
+13,KYmSR2vE,cash,7/15/2011 7:16
+14,EOGj6tDH,credit card,2/26/2014 18:22
+15,yTDlEBXc,cash,5/9/2011 6:30
+16,3ANQ9shn,credit card,2/18/2011 10:22
+17,BDEPLKmG,cash,1/22/2011 3:19
+18,8vB4XorN,credit card,2/11/2013 21:16
+19,1SDtHCf7,credit card,2/6/2011 11:31
+20,gQBDZ8Lw,cash,3/9/2011 23:04
+21,G1c0kZqQ,cash,10/10/2010 10:29
+22,lJC8cDTW,credit card,10/14/2010 7:48
+23,n5YVLJ7v,credit card,8/14/2011 16:40
+24,tIdMRZzN,cash,6/23/2010 3:58
+25,HVtuFvKk,credit card,8/31/2010 0:27
+26,LJVy8PnW,credit card,6/16/2010 7:45
+27,YrunTynm,credit card,1/25/2012 12:02
+28,Pme0EuIj,credit card,7/30/2010 20:28
+29,lOppPgbt,credit card,8/15/2011 2:23
+30,FQONt9Qj,credit card,10/24/2010 8:39
+31,kGbkHPe3,cash,12/9/2010 19:08
+32,ZBaMGxyd,cash,6/6/2010 3:53
+33,G1c0kZqQ,cheque,4/30/2012 18:42
+34,U9oQ4X4a,credit card,7/7/2012 9:39
+35,vkq98Roy,credit card,8/24/2013 21:22
+36,Zu1IH3W9,cash,9/27/2010 9:16
+37,w1RMi0Ye,cash,11/6/2010 0:20
+38,67pf3SG7,cash,7/25/2010 0:31
+39,txwqlFrx,credit card,11/25/2011 10:05
+40,p2B4niEV,credit card,8/28/2011 2:49
+41,dtW2nTUg,cash,8/4/2010 0:14
+42,Q6Hs8l2N,credit card,10/12/2012 2:34
+43,K4BiUUqk,credit card,6/16/2012 8:17
+44,fN6Bi6ut,credit card,1/25/2011 7:17
+45,ISLS1LEp,credit card,3/27/2011 18:43
+46,Ilw55cGT,cash,3/31/2011 0:13
+47,MemBg2vN,credit card,2/20/2010 6:26
+48,K0LlWwKm,cash,10/4/2011 22:23
+49,nebDykfo,credit card,7/26/2012 22:38
+50,DBPXSyZX,credit card,12/26/2011 8:03
+51,QW258zNn,credit card,6/12/2011 8:42
+52,2PdHrQ0N,credit card,1/6/2012 3:52
+53,VYYxwovV,credit card,6/23/2012 16:43
+54,wCMq8WUK,cash,2/4/2011 18:11
+55,XLM36WeL,cash,6/30/2010 21:13
+56,i431B5FD,credit card,5/5/2012 13:22
+57,hR5bIMTj,credit card,1/13/2011 18:19
+58,nJ7KivPn,credit card,11/30/2011 21:38
+59,LB3fgpFh,cheque,2/10/2010 14:00
+60,FUcDIlsz,cheque,5/17/2011 22:31
+61,kRi3vk6o,credit card,8/24/2011 12:28
+62,fn9woJ27,credit card,5/30/2012 4:26
+63,bUAFjUKx,credit card,9/1/2012 15:30
+64,x7MSewP7,cash,1/19/2011 23:29
+65,OHIF3ecs,cash,6/15/2011 11:57
+66,ClU1K8pr,credit card,8/5/2013 13:00
+67,VTRHXs1F,credit card,6/6/2010 23:15
+68,a3kGAKaY,credit card,11/1/2012 11:47
+69,fya0KpSq,credit card,3/27/2011 18:55
+70,FtGlaAO8,cash,4/11/2010 9:34
+71,DsXdDTUM,credit card,9/14/2011 13:08
+72,Hg6423c9,credit card,12/7/2011 12:23
+73,Q3RgD5dc,cheque,5/7/2010 17:38
+74,WIK59uh6,credit card,6/30/2012 23:27
+75,UTM0J7L3,credit card,3/13/2013 19:12
+76,H0n3eUsn,credit card,12/22/2011 0:40
+77,mSaXdmd9,credit card,11/1/2010 14:53
+78,8FLjqHa8,credit card,2/11/2011 15:47
+79,7OTWTwK4,credit card,9/24/2012 19:26
+80,WfJORRap,credit card,11/8/2011 11:58
+81,f6IvQ9iT,credit card,9/6/2010 4:40
+82,QCU4Fgm4,credit card,3/16/2012 22:08
+83,S0EDUb7L,credit card,10/16/2010 11:24
+84,Rvv4B7Gr,credit card,5/29/2012 1:15
+85,DIw2K055,credit card,11/25/2011 16:40
+86,K2SwvDUq,credit card,4/5/2010 14:05
+87,GGO1WQWB,cash,11/27/2009 8:10
+88,1olvkgMw,cash,1/29/2013 8:33
+89,oIuGNpzw,credit card,2/10/2012 1:30
+90,PsXsGka2,credit card,4/14/2011 23:22
+91,GlGZMbnk,credit card,1/15/2012 17:42
+92,sSNU6Ylb,credit card,1/3/2012 11:04
+93,8XQ5wVue,credit card,8/22/2013 10:45
+94,BUkdkv7j,cash,11/27/2010 1:04
+95,UdxrZlw3,credit card,10/21/2011 14:29
+96,YXITvyRR,credit card,4/21/2012 18:29
+97,x9hqgAOa,cash,12/15/2012 11:52
+98,QLVjOVdq,cash,3/9/2011 23:55
+99,PjxUX4FV,credit card,4/16/2012 6:13
+100,mHkwfOrB,credit card,5/28/2011 18:10
+101,ofnLhsJr,credit card,11/8/2010 1:17
+102,92nmswzi,cheque,3/2/2011 4:08
+103,V6i1m60Q,credit card,8/3/2010 16:04
+104,ngFxIEzB,cash,8/18/2010 11:46
+105,PeoGZnAi,cash,11/24/2009 0:17
+106,T5pxtCxg,cash,12/4/2011 23:20
+107,YAplaY8d,credit card,3/24/2011 18:59
+108,N8Cvr0k6,credit card,5/1/2011 5:43
+109,D97jrMoY,cheque,7/22/2011 13:29
+110,7TAHDWAH,cash,1/8/2012 7:03
+111,6e7TUiBt,cash,8/10/2012 7:46
+112,rDGyBpoZ,cash,10/5/2010 8:04
+113,nvOOHxnL,credit card,8/6/2012 23:42
+114,RJawkKEi,cash,3/31/2011 5:39
+115,DbDn9imt,credit card,8/7/2012 2:28
+116,HP1KrVxJ,credit card,3/18/2011 12:34
+117,TUA8xgUo,cash,11/5/2011 13:30
+118,nfuPH2Rd,credit card,10/3/2011 15:42
+119,NnESrVF8,credit card,7/4/2011 9:47
+120,F7nDASX3,credit card,10/4/2012 8:55
+121,waI3YAtn,cash,8/1/2010 2:22
+122,G8FGhgzf,credit card,7/26/2011 7:29
+123,3RwmG77F,credit card,7/12/2011 8:25
+124,pKrTBLW8,credit card,6/5/2012 1:46
+125,vKrR9lgE,cheque,12/22/2010 20:44
+126,f5mEsjQb,credit card,1/3/2011 8:46
+127,ocLvIKIN,cash,1/5/2013 16:40
+128,LOBjc0ue,cash,6/7/2011 21:02
+129,ukz24ozv,credit card,9/3/2012 9:39
+130,JlePCygI,cash,3/27/2011 18:51
+131,hQateE26,cheque,10/31/2012 9:56
+132,FYBcEUd6,credit card,6/16/2013 12:50
+133,P4KEF7Wq,cash,2/5/2011 9:08
+134,0Dm8Yibz,credit card,3/19/2011 3:18
+135,wCUZbsb9,cash,9/5/2011 9:00
+136,zaus5phD,credit card,10/3/2010 18:28
+137,dKjQRsZi,credit card,11/30/2011 21:57
+138,oHbgmBfM,credit card,6/27/2011 6:46
+139,HvSjreXj,credit card,6/9/2010 22:17
+140,JveEHeyk,credit card,9/6/2011 7:28
+141,9F9KFJ6H,cash,8/26/2010 19:19
+142,GVO5dbuC,credit card,3/13/2013 0:07
+143,H8szJiQ8,cheque,6/15/2010 0:57
+144,pCUO5AGa,credit card,6/30/2012 20:58
+145,vyLYrSRA,cash,12/8/2012 10:37
+146,ZSopZwuk,credit card,10/10/2010 14:56
+147,AIFX9peT,credit card,9/15/2010 2:30
+148,SMstnaz9,credit card,12/4/2011 9:22
+149,30w6lE6G,credit card,1/5/2012 1:46
+150,X3YpANiF,credit card,10/11/2010 18:25
+151,WN8bHBjG,cheque,10/15/2010 6:05
+152,CG3hseQg,credit card,2/20/2011 13:11
+153,ehgSCbVE,cash,4/28/2011 22:36
+154,S3Pxb9ok,credit card,2/22/2011 10:07
+155,9bU2w7pV,cash,12/1/2011 19:59
+156,28Rviqp0,credit card,11/1/2011 23:47
+157,H6LxgqeP,cash,8/9/2011 21:25
+158,rkKD9dhZ,credit card,6/13/2011 18:49
+159,83d7eRMo,credit card,11/30/2011 13:34
+160,v4z0FThC,credit card,6/22/2012 19:38
+161,5iOBFRfJ,credit card,1/4/2011 22:30
+162,TnOXa1ht,cash,5/2/2010 20:31
+163,v0poyp4v,credit card,4/30/2012 0:08
+164,NFkiHjkD,credit card,2/6/2012 2:13
+165,GjU0ksAd,credit card,2/9/2012 14:28
+166,ghJnM1Rb,cash,1/20/2010 11:49
+167,O9rkKV6Z,credit card,10/7/2012 19:19
+168,aUtRQSng,cash,10/6/2010 7:22
+169,km0CFEfa,credit card,2/19/2012 23:09
+170,RQ0dUx34,credit card,2/25/2011 20:07
+171,bAKACf7o,credit card,1/10/2012 13:07
+172,x4pYHlgV,credit card,7/1/2011 5:25
+173,0Go12lhb,credit card,1/11/2012 20:43
+174,H1NrMhMz,credit card,8/24/2011 17:20
+175,9uxwNsXr,cash,6/13/2010 4:16
+176,7GDdhe6R,cash,5/19/2010 6:35
+177,VlJVFpat,credit card,4/17/2012 19:36
+178,w5XASsXb,cash,5/6/2010 7:03
+179,TODZsH3h,credit card,9/17/2011 12:28
+180,OgOSZPKJ,cash,11/28/2010 2:34
+181,biBvW212,credit card,12/17/2013 3:14
+182,jPuStBk5,cash,1/24/2010 23:30
+183,yyGY9EBR,credit card,5/12/2011 18:58
+184,xXBXsi8m,cheque,6/15/2011 22:15
+185,SuIBpfAT,credit card,3/29/2012 4:08
+186,GHX5UrH3,cash,2/9/2011 23:00
+187,atMTm4DU,cash,12/13/2010 7:43
+188,fAf0KV8h,credit card,5/13/2011 16:12
+189,QZNLpGKp,cash,3/4/2010 11:20
+190,ZYTytgk4,cash,12/6/2010 12:51
+191,zMyeY8je,credit card,2/12/2011 3:22
+192,gFkFRdaI,cash,7/21/2010 6:54
+193,Nyqhazd7,credit card,8/7/2012 10:41
+194,ELNgicTB,credit card,3/21/2012 11:34
+195,NON7zHOC,cheque,4/17/2011 6:44
+196,cUrR418k,credit card,9/5/2011 20:47
+197,ho5RCxxm,cheque,6/22/2010 4:56
+198,H0TFG5MM,cash,11/30/2010 10:35
+199,sVoaunIJ,cash,10/17/2010 14:01
+200,Swk4xNs0,credit card,3/8/2012 21:43
+201,NsreMU8i,credit card,10/9/2012 4:31
+202,Cu7KhuFs,credit card,3/13/2010 18:36
+203,YrFsXGUa,credit card,11/16/2010 20:35
+204,blsGaVg3,credit card,9/30/2012 22:48
+205,GWPSIUW2,credit card,9/6/2012 16:47
+206,2PmPZWDK,cash,4/27/2011 14:50
+207,sxnpIUU0,cash,10/17/2012 14:05
+208,RxjVpJBM,cash,6/29/2011 15:15
+209,xaOh8lV5,credit card,4/14/2013 4:16
+210,TgZBAArX,credit card,9/28/2010 12:30
+211,gtWZWYUM,credit card,1/28/2012 13:39
+212,9UaJdXWX,cheque,7/10/2011 8:13
+213,6A75rQhE,credit card,1/16/2012 6:15
+214,qyO20YBw,cash,11/10/2011 23:07
+215,HHfSwcYU,cash,4/1/2011 3:41
+216,m8xXvUDx,credit card,2/9/2012 5:24
+217,DDEoEUqq,credit card,7/4/2010 18:25
+218,IPlhr6cC,credit card,8/25/2010 11:50
+219,a1MWIOfr,cash,3/12/2012 13:18
+220,iJ5T9LF1,credit card,9/25/2012 8:15
+221,0dFBEzCp,cash,11/30/2011 13:03
+222,3djn1SDK,credit card,1/21/2011 10:32
+223,f3iAYzTo,credit card,3/12/2012 0:51
+224,Nh4XuVkA,credit card,6/19/2011 13:26
+225,8ifgixwW,credit card,2/10/2011 0:31
+226,MLlwwJCK,credit card,12/18/2011 12:06
+227,yBQox9zl,cheque,7/23/2011 5:32
+228,S4tBcsld,credit card,7/14/2011 10:48
+229,4RSQEopW,credit card,6/17/2011 11:38
+230,MXqsktgh,credit card,2/12/2013 19:41
+231,k7lMPtjG,cash,1/19/2011 1:39
+232,6MFtHeI8,credit card,2/11/2012 3:55
+233,zrcauQ9a,credit card,5/11/2012 9:13
+234,RleMzwZg,credit card,8/3/2012 15:20
+235,UhuQAJZQ,credit card,3/14/2011 19:15
+236,vhtTUr66,cheque,6/3/2011 20:56
+237,5F6ZW8VT,cash,8/18/2011 16:40
+238,xiQrFrpV,credit card,11/17/2010 3:59
+239,THcgfMaD,credit card,6/13/2010 12:41
+240,W1gqSYVC,cheque,5/29/2010 9:13
+241,KgOaIIMC,credit card,1/1/2013 6:14
+242,Dl2LRoQV,credit card,7/11/2010 20:58
+243,3DohFRui,credit card,1/18/2012 20:22
+244,z3POfQ5L,cheque,9/17/2011 20:04
+245,cujNb6GQ,credit card,4/23/2011 12:42
+246,wQDb9td0,credit card,6/2/2011 7:14
+247,kLjV6JOu,cash,9/12/2011 17:17
+248,gXJ7Pwee,cash,10/2/2011 21:02
+249,rLSnVvQj,cheque,9/27/2010 17:46
+250,OHIF3ecs,credit card,4/12/2011 0:08
+251,QCU4Fgm4,credit card,6/24/2011 10:40
+252,Skf9fEaF,credit card,8/27/2011 21:45
+253,3bgeC6rr,credit card,1/9/2013 2:33
+254,R9s3bCKc,credit card,11/21/2011 20:36
+255,fCOAG56c,cheque,9/6/2010 14:58
+256,o2pM2yEq,credit card,4/25/2012 1:16
+257,DlHE0KbG,cash,2/14/2011 19:00
+258,ccJwT4lI,cash,10/8/2012 19:50
+259,NON7zHOC,credit card,9/30/2011 19:49
+260,H8tTp8Ky,credit card,11/16/2012 14:43
+261,KcQK62N7,credit card,8/31/2011 21:54
+262,m5RrACFZ,credit card,12/3/2011 23:09
+263,vRKFjQdu,credit card,7/13/2011 9:22
+264,JApslbuL,credit card,2/21/2012 2:11
+265,Kpf2hrAR,cash,9/3/2011 8:52
+266,ASSm0Gw4,credit card,12/20/2011 22:32
+267,4sOGEqYt,cash,5/12/2012 20:47
+268,Qnrk4KMI,cheque,12/22/2010 6:27
+269,yQjFRR1I,credit card,2/22/2012 12:55
+270,dYdjH2uj,credit card,3/11/2010 5:16
+271,joEpLf0I,credit card,6/12/2011 21:43
+272,BtCY2Neh,credit card,11/3/2011 0:14
+273,blsGaVg3,credit card,3/16/2013 4:35
+274,YI3zKILp,credit card,2/4/2011 11:52
+275,jHwjijNm,credit card,7/4/2012 6:23
+276,CaZCagHV,cash,7/12/2010 7:13
+277,wZvgEvwM,credit card,9/11/2012 5:49
+278,mcq4IyiE,cash,8/13/2011 15:06
+279,i2a9ZE9A,credit card,11/11/2012 9:40
+280,21jXDJXH,cheque,7/16/2010 18:31
+281,AkpK2ek7,credit card,3/10/2012 20:41
+282,3OjTesQd,credit card,5/11/2012 15:23
+283,3OTKo0aH,credit card,6/19/2012 17:37
+284,Lsh1fsRZ,cash,8/21/2010 3:59
+285,5gcqkuAs,cheque,2/26/2011 4:11
+286,woLIg9Df,credit card,4/18/2012 16:29
+287,Fz87IKuW,cash,2/7/2012 0:28
+288,4xMw6Flo,credit card,7/10/2011 10:30
+289,rUOCHd2E,credit card,12/6/2010 4:51
+290,6jIToUwA,cash,6/27/2010 18:46
+291,cSNIjLTA,credit card,10/10/2010 2:29
+292,pCUO5AGa,cash,4/9/2012 1:21
+293,eqzP2w4V,credit card,3/3/2011 4:36
+294,4pEvG68d,credit card,5/3/2013 21:41
+295,DiIeXlNJ,credit card,4/27/2013 17:50
+296,Uo9Qy2M4,credit card,11/23/2012 15:57
+297,vedLoUod,credit card,1/25/2012 9:22
+298,2xbLvYQk,credit card,3/16/2012 22:23
+299,TgZBAArX,credit card,11/29/2011 1:46
+300,xGqvVQV2,cash,8/8/2011 14:34
+301,BqH79m89,credit card,11/7/2010 16:58
+302,LdZvNRAt,credit card,11/6/2010 20:56
+303,dbWSIwf2,credit card,9/4/2010 20:14
+304,vaOkeJW0,credit card,2/15/2011 10:28
+305,vZ07uHX3,cash,7/12/2011 21:26
+306,hNYTDtWL,credit card,12/10/2011 14:51
+307,vZ07uHX3,credit card,6/22/2012 9:13
+308,Zqrmm6Jw,cash,4/2/2011 18:38
+309,5MozbqJ4,credit card,8/18/2012 9:11
+310,6xb3RPor,credit card,7/10/2012 15:30
+311,i85Q2th4,credit card,8/10/2011 6:42
+312,qMrUdy5L,credit card,9/14/2012 16:49
+313,KJ6hj6sI,credit card,5/15/2012 8:07
+314,znRJwkZk,cash,8/8/2011 7:47
+315,wHh275mF,cheque,6/30/2011 18:55
+316,40xiWgv9,credit card,11/16/2010 3:25
+317,HjX4YiFL,cash,10/7/2012 8:30
+318,ettsoaY5,credit card,9/3/2011 3:43
+319,AbFUUDxr,credit card,9/2/2012 6:43
+320,8TyhrvGv,cash,6/12/2011 13:33
+321,crPUYdcS,credit card,8/16/2012 7:58
+322,CM3V0ou3,cash,12/11/2010 0:09
+323,lDWNCoE1,cheque,10/27/2010 6:39
+324,wJuasCGW,credit card,3/2/2011 14:32
+325,MIEAsPbM,cash,10/10/2013 20:13
+326,fCOAG56c,credit card,7/15/2012 20:13
+327,oDpMToNk,credit card,5/21/2011 11:24
+328,7xDlBkHr,credit card,12/10/2011 16:06
+329,ZTyyUGup,credit card,7/27/2013 22:07
+330,XMDsRKKc,cash,1/18/2011 4:36
+331,W0Sz5GCv,credit card,8/6/2011 21:26
+332,ASSm0Gw4,credit card,6/14/2012 17:20
+333,Mqvdh12w,credit card,12/2/2011 9:06
+334,3UkCKVjJ,cash,6/24/2010 8:54
+335,akWNQl4e,credit card,12/26/2011 4:48
+336,IflVtKHF,credit card,1/19/2012 19:47
+337,ZYsjhFn3,cash,11/27/2010 16:56
+338,ZFaQjitd,credit card,10/30/2012 8:05
+339,xE1iyLHy,credit card,10/18/2012 1:14
+340,n9xZIo4a,credit card,7/12/2012 3:18
+341,Kq90bhm1,credit card,8/19/2013 13:03
+342,T4rOqdyp,credit card,9/14/2012 5:07
+343,fAf0KV8h,credit card,2/3/2011 0:29
+344,s4mJquiX,cash,5/9/2010 10:48
+345,BuEY7Tpn,credit card,1/13/2012 3:58
+346,3rgi5H7g,credit card,9/14/2011 6:37
+347,28Rviqp0,credit card,6/14/2011 2:00
+348,ih6RmUWh,credit card,11/5/2012 22:31
+349,w92VXAun,credit card,11/3/2011 13:03
+350,zNxS6ml5,credit card,10/5/2012 20:49
+351,4fx76BIW,credit card,1/1/2011 10:51
+352,fTCWPuYd,credit card,2/7/2011 21:41
+353,6eSYlIJJ,credit card,1/28/2012 9:51
+354,hFr4nhjX,credit card,5/25/2012 13:13
+355,0JbDpFTI,credit card,7/5/2012 5:34
+356,P2HEkPoi,cash,11/25/2011 6:10
+357,YEYnfgDQ,credit card,5/2/2013 6:06
+358,S5jIf47v,credit card,5/2/2012 18:11
+359,DlHE0KbG,cash,6/12/2012 1:50
+360,uGdg8HuX,credit card,5/30/2012 4:26
+361,Eaix7H1b,credit card,1/27/2011 11:16
+362,hJV6pIKL,credit card,10/9/2012 19:40
+363,wPGhhnoA,cheque,2/2/2012 19:12
+364,GkaDlXFS,cash,6/13/2011 18:44
+365,CSooRpLP,credit card,4/28/2012 21:04
+366,71vABnjs,credit card,7/29/2012 1:29
+367,ZSgbd3KQ,cheque,7/16/2012 17:36
+368,mKaYvZby,credit card,3/27/2012 22:40
+369,210LCbHt,cash,6/5/2012 15:40
+370,X7hsubnG,credit card,1/30/2012 14:53
+371,EHE63QaR,cheque,12/21/2010 16:13
+372,BHRbmBG0,credit card,1/29/2011 15:35
+373,fh9NmHbn,credit card,12/20/2011 15:21
+374,YkGqEBcY,credit card,2/3/2013 1:40
+375,GpAxlaQf,credit card,11/1/2012 16:14
+376,i3cyYO5T,cash,9/19/2010 18:59
+377,FlWk4pc0,credit card,3/16/2012 18:37
+378,GlXuIBNN,cash,1/14/2011 3:57
+379,cabmK8ni,credit card,9/18/2010 7:40
+380,vTa5gtGB,cash,12/23/2010 6:03
+381,35KT5qKJ,cheque,2/5/2012 5:36
+382,qzwNDfQU,credit card,1/1/2012 10:51
+383,wHh275mF,credit card,1/19/2013 2:18
+384,IaV8LWhH,credit card,5/7/2012 22:54
+385,D0x9RSKN,credit card,8/17/2011 13:08
+386,z8mF5Azh,credit card,8/16/2011 19:14
+387,UkAvVEOR,cash,7/30/2011 1:56
+388,QTnxSy2W,cash,2/14/2012 22:39
+389,dgBsdhp8,credit card,4/28/2012 0:57
+390,HjpQwvBx,credit card,3/27/2011 13:57
+391,OUAcaGfJ,cash,4/5/2011 9:22
+392,U6X1rqgu,cash,3/14/2013 18:55
+393,BaDIalu0,cash,7/13/2010 13:10
+394,dWyMpK2O,credit card,2/8/2012 16:33
+395,rslIqHw5,cash,6/21/2010 8:22
+396,Q3hYvLDE,credit card,4/18/2012 12:07
+397,vtqPRomS,credit card,9/29/2011 16:42
+398,XmWeSHa3,credit card,7/27/2012 14:29
+399,mLVdYdBO,credit card,10/16/2010 23:15
+400,sgulbWJH,credit card,10/29/2012 20:00
+401,cTZLWxxP,cash,6/15/2011 10:08
+402,vQJOJWtc,cash,1/8/2011 3:47
+403,6G4zWWkD,credit card,2/6/2012 1:45
+404,pCaMBaG6,credit card,2/21/2011 16:32
+405,xNG27YQ2,credit card,9/8/2011 15:50
+406,TrAH1gPk,credit card,1/11/2013 0:38
+407,XCpo5Tzh,cash,11/5/2011 9:25
+408,Lizi5rSf,cash,2/3/2011 19:31
+409,OeIR5JWQ,credit card,8/18/2012 16:39
+410,VnnvzNUc,credit card,10/25/2012 9:48
+411,FHr5Ot68,cheque,6/24/2011 7:24
+412,tAQsnNjn,credit card,12/19/2011 23:00
+413,kBtGPHli,credit card,2/19/2012 0:58
+414,rslIqHw5,credit card,10/22/2010 6:52
+415,ZdHwvfCs,credit card,12/25/2010 8:57
+416,nM1wa8nb,cash,10/28/2011 23:44
+417,6D2VeM7T,cash,6/4/2010 8:43
+418,M0KFbg7V,cash,7/3/2011 11:38
+419,WMQcB9Hn,credit card,1/2/2011 7:33
+420,imGPIAIz,credit card,4/1/2013 23:52
+421,Iw9t9jxM,cash,2/14/2011 0:40
+422,u5RyRaRh,cash,3/13/2011 19:30
+423,QKhGQTq6,credit card,6/13/2013 0:28
+424,FjCT7NF8,credit card,12/13/2012 19:50
+425,PEjNsxdD,credit card,9/24/2011 22:16
+426,gkPbGRmx,credit card,11/13/2012 17:25
+427,KKZLUbvs,credit card,5/14/2012 23:54
+428,GofO3xGl,credit card,1/2/2013 17:22
+429,wHh275mF,credit card,7/13/2012 23:41
+430,KGVlpn8K,credit card,2/11/2012 16:02
+431,KYmSR2vE,cash,12/8/2010 20:49
+432,lipDk8MI,credit card,7/9/2012 11:02
+433,1DV3f83o,credit card,9/17/2011 19:24
+434,tCO5Wx5Y,credit card,5/3/2012 3:41
+435,M4f7DRys,credit card,3/5/2012 23:00
+436,C5g6ifZj,cash,6/19/2011 8:21
+437,R9s3bCKc,credit card,1/1/2013 7:33
+438,dXngQAKL,credit card,5/3/2013 19:51
+439,3p6Q9p9B,credit card,1/23/2011 5:12
+440,JN5vTby9,cash,7/1/2011 15:09
+441,bxF6fwXj,credit card,12/6/2012 2:05
+442,YvVWet3Y,credit card,11/17/2012 11:49
+443,hIoHR9yD,credit card,7/18/2012 18:31
+444,OPkZVDS3,credit card,6/26/2011 21:06
+445,pXvDL0bK,credit card,2/4/2013 18:17
+446,Zgw914sP,cash,7/22/2011 1:43
+447,1UOUsi3Z,credit card,12/17/2010 7:59
+448,4HY6rffO,credit card,4/9/2013 13:06
+449,LdZvNRAt,credit card,12/8/2012 23:02
+450,NAdFk1Tr,credit card,2/7/2013 14:31
+451,twPKVhgh,credit card,11/17/2012 10:59
+452,9ntGGAsv,credit card,10/9/2013 15:47
+453,N0kWz600,credit card,6/4/2012 19:11
+454,vponIBAp,cash,6/26/2011 13:14
+455,20oBj60n,cheque,12/23/2010 11:54
+456,K2e75GKd,credit card,10/10/2010 16:19
+457,mKShmzZe,credit card,8/5/2012 11:39
+458,BUkdkv7j,cash,9/28/2011 9:51
+459,7LD5QKiB,credit card,12/7/2010 14:33
+460,7vZ8bVca,credit card,10/2/2010 23:34
+461,fUkuoOrN,cash,9/12/2011 11:58
+462,HWWTBf6e,credit card,1/20/2011 2:34
+463,Ek3zONY4,credit card,1/21/2011 7:47
+464,lsbbuWoz,credit card,6/30/2012 13:16
+465,y1nBm0uq,credit card,3/21/2013 19:03
+466,GL3EKIXB,credit card,1/11/2013 18:41
+467,BN3befSs,credit card,2/9/2014 21:33
+468,H8tTp8Ky,credit card,10/28/2012 11:36
+469,6ZvYkAYA,credit card,11/10/2012 7:54
+470,qIpY340n,credit card,11/6/2012 15:07
+471,RWDVb00w,cheque,5/23/2012 4:31
+472,OiMvd9Yc,credit card,5/8/2012 15:26
+473,ELmyVSAi,cash,5/2/2013 14:08
+474,yejS1Mzo,credit card,4/7/2012 6:20
+475,85IIDJb3,credit card,11/29/2013 15:50
+476,82BIkDkP,credit card,11/4/2012 0:40
+477,qDo9W06U,credit card,9/7/2012 1:50
+478,2FlbPxHF,cash,4/14/2011 18:44
+479,NNbROgIt,credit card,4/26/2013 23:28
+480,xQwke1qY,credit card,7/26/2012 3:20
+481,XP8VoIk5,credit card,5/10/2012 11:18
+482,AkJfkAuf,cash,9/28/2011 18:34
+483,x1n8swtd,credit card,11/2/2011 16:08
+484,F6yRqbEo,credit card,9/11/2012 9:02
+485,3WW2RIh0,credit card,9/17/2010 7:59
+486,1aFqs1yO,cash,11/17/2011 10:33
+487,UXNDaquE,cash,2/2/2012 0:26
+488,yk7RmqC3,credit card,2/19/2010 23:14
+489,FFHYrq2R,credit card,11/29/2012 16:57
+490,wQjEDrl8,cheque,6/30/2010 1:33
+491,vmqGVieR,credit card,4/2/2012 10:08
+492,gu5K6PC0,credit card,10/7/2011 11:01
+493,C6zIFfnV,credit card,3/8/2012 1:47
+494,fYcLN1ti,credit card,7/1/2012 1:10
+495,Lv6bHYMT,credit card,1/19/2012 2:17
+496,wHh275mF,cash,3/3/2011 21:24
+497,HudYaD06,cash,5/2/2012 1:00
+498,q0dOHlRd,credit card,5/26/2012 6:45
+499,FHALZCAu,cash,12/13/2011 4:01
+500,ygcF4CO1,cheque,5/15/2011 20:50
+501,IJ5eIqCU,credit card,6/19/2013 23:14
+502,1ku04YJG,cash,11/27/2010 7:40
+503,bGdHEYeB,credit card,11/22/2011 16:05
+504,hWWsbvFV,credit card,1/26/2012 3:06
+505,eWjS5w8b,credit card,3/15/2011 3:03
+506,SMstnaz9,cash,3/13/2012 10:30
+507,80PGKjhR,cash,6/13/2010 4:19
+508,xj6Zgj6j,credit card,12/3/2011 1:35
+509,C5g6ifZj,credit card,9/14/2012 8:18
+510,LoJIg9Xc,credit card,4/29/2011 14:37
+511,aCo8NJCD,credit card,3/20/2013 4:36
+512,OZ36TOSi,credit card,1/10/2013 17:43
+513,BjATVOv7,cash,8/31/2011 17:42
+514,AIOIGQsl,cash,9/8/2011 0:11
+515,YbRWLBNt,credit card,8/11/2013 2:35
+516,TkTaU6Ei,credit card,6/16/2011 11:04
+517,MFEnh7bK,credit card,6/11/2012 10:42
+518,ocLvIKIN,credit card,1/14/2013 10:52
+519,qfqG0jwP,credit card,6/2/2012 15:01
+520,mC1mXZvF,credit card,3/5/2013 4:56
+521,cD0f3l1e,cash,4/11/2012 13:23
+522,RXev5Ebs,credit card,3/2/2011 6:45
+523,Ge78zAAF,cash,9/19/2011 10:01
+524,bGVBf0fv,credit card,3/11/2012 0:00
+525,HvzpxffH,credit card,9/19/2011 14:12
+526,sST2q5dY,credit card,9/26/2010 8:02
+527,txwqlFrx,credit card,2/5/2012 18:14
+528,5HsKGpu7,cash,11/25/2010 19:05
+529,IL0FQwuT,credit card,9/3/2012 7:00
+530,KznIZlsO,credit card,5/26/2011 22:34
+531,biBvW212,credit card,8/1/2010 5:10
+532,27GuyYYU,credit card,4/28/2012 5:04
+533,F72y4CHK,cash,10/29/2011 22:57
+534,qfqG0jwP,cheque,8/7/2011 0:08
+535,jgTEURan,cash,9/23/2011 5:45
+536,XhDRv5mi,credit card,12/24/2011 17:01
+537,pM6ncCcg,cash,12/23/2011 13:43
+538,L1KUkYjX,credit card,2/17/2012 23:38
+539,8C4swT2C,credit card,4/26/2012 21:11
+540,dee79fB6,credit card,7/29/2012 15:38
+541,IOgbGQi6,credit card,5/9/2012 15:35
+542,bItyHa6q,credit card,2/20/2012 1:04
+543,DIw2K055,credit card,8/19/2011 18:22
+544,kKqv3Qja,cheque,2/29/2012 5:21
+545,vBuaPTLy,credit card,12/3/2010 19:16
+546,40jeoiUq,cash,6/23/2012 12:24
+547,xOYD8deg,credit card,5/2/2013 6:57
